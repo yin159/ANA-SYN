@@ -5,3 +5,24 @@ This is the code of the implementation of the underwater image enhancement netwo
 Our synthetic underwater dataset:
 ![Dataset](https://github.com/zyWang-Power/ANA-SYN/blob/master/Image/Dataset.png)
 
+Type-I:
+
+Type-IA:
+
+Type-IB:
+
+Type-II:
+
+Type-III:
+
+Type-1C:
+
+Type-3C:
+
+Type-5C:
+
+Type-7C:
+
+Type-9C:
+
+
