@@ -25,4 +25,10 @@ Type-7C: 链接：https://pan.baidu.com/s/14TQr8J0o3iuzWP1ZhgIchA
 
 Type-9C: 链接：https://pan.baidu.com/s/1S9Up3XodksDsJ0GIt0pO6A
 
+提取码：Please contact me, thanks.
 
+# How to generate 10 Types of Synthesized Underwater Image Datasets by using your RGB-D images?
+We provide our python code that can generate 10 types of synthesized underwater image datasets. For your convenient, we take the RGB-D NYU-v2 indoor dataset as an example in our python code.
+
+# Contact Us
+If you have any questions, please contact us (zywang@shu.edu.cn).
