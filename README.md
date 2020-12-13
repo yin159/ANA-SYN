@@ -43,6 +43,6 @@ Real-world underwater image dataset:
 If you use this code, please cite the related paper. Thanks.
 ##
 # This paper is submitted in a magazine. Codes will be available once the paper under submission is accepted.
-##
+
 # Contact Us
 If you have any questions, please contact us (zywang@shu.edu.cn).
