@@ -3,7 +3,7 @@ This is the code of the implementation of the underwater image enhancement netwo
 
 # Dataset
 Our synthetic underwater dataset:
-![Dataset](https://github.com/zyWang-Power/ANA-SYN/blob/master/Image/Dataset.pdf)
+![Dataset](https://github.com/zyWang-Power/ANA-SYN/blob/master/Image/Dataset.png)
 
 Type-I: 链接：https://pan.baidu.com/s/126jpx1uF55Du6vrhSFfiJA
 
